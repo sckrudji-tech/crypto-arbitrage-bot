@@ -36,10 +36,8 @@ text## Setup & Usage
 - Customize: Edit config.py for symbols/thresholds.
 
 ## Demo
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+<img width="842" height="57" alt="image-2" src="https://github.com/user-attachments/assets/8f22ab97-6d07-4b2b-9ac7-742cd0b3dc8e" />
+
 
 ## Limitations & Next Steps
 - Paper trading only (no live trades); add live mode with risk warnings.
