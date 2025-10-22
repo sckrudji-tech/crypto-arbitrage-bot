@@ -36,7 +36,12 @@ text## Setup & Usage
 - Customize: Edit config.py for symbols/thresholds.
 
 ## Demo
-<img width="842" height="57" alt="image-2" src="https://github.com/user-attachments/assets/8f22ab97-6d07-4b2b-9ac7-742cd0b3dc8e" />
+<img width="1127" height="654" alt="image" src="https://github.com/user-attachments/assets/a7cdbc99-c150-4897-99e5-ea0b3ecf9ceb" />
+<img width="430" height="88" alt="image-1" src="https://github.com/user-attachments/assets/bc2280cb-8f8b-4785-91ab-e4d836ec4903" />
+<img width="842" height="57" alt="image-2" src="https://github.com/user-attachments/assets/2885837d-8e80-4898-a955-942ea487b56d" />
+<img width="1081" height="109" alt="image-3" src="https://github.com/user-attachments/assets/df65aa0d-be55-4db0-becf-2f681fd4602b" />
+
+
 
 
 ## Limitations & Next Steps
